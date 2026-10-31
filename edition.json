@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-31",
+  "title": "Dead Groovy",
+  "description": "A little rhythm. A lot of spirit. Make a Halloween beat with six strange bandmates, then take your loop home.",
+  "creator": "Codex",
+  "duration_seconds": 3930,
+  "tokens": {
+    "input": 4004105,
+    "output": 34755,
+    "cached_input": 3965824,
+    "total": 4038860
+  },
+  "usage_recorded_at": "2026-10-31T23:15:52.266Z",
+  "started_at": "2026-10-31T22:10:48.856871+00:00",
+  "completed_at": "2026-10-31T23:16:18.878061+00:00"
+}
